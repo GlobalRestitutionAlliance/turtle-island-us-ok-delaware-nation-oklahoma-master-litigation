@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=OK+DELAWARE+NATION+OKLAHOMA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=OK+DELAWARE+NATION+OKLAHOMA",
+  "title": "Federal Register - OK DELAWARE NATION OKLAHOMA",
+  "fetched_at": "2026-11-23T18:09:51.927787Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 329126,
+  "sha256": "bd3d121debbe69affa1c23d5896be8175713a5a70737df7ef6e7a7f7de591e16",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
